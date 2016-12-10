@@ -1,0 +1,5 @@
+Ruta: \Reserva-Develop\src\backoffice\view\modules
+
+Extraes ahi y se te va a añadir una carpeta llamada "gestion_ofertas". Ahí esta todo.
+
+Te mando 2 versiones. Una con las paginas separadas y una con todo los modulos en una sola cosa. Por si a.
